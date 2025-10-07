@@ -29,7 +29,3 @@ stdio.h - Entrada/saída
 stdlib.h - Funções gerais
 math.h - Cálculos matemáticos
 string.h - Manipulação de strings
-
-math.h - Cálculos matemáticos
-
-string.h - Manipulação de strings
